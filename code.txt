@@ -1,1 +1,2 @@
 Registracia uzivatela
+Registracia admin
